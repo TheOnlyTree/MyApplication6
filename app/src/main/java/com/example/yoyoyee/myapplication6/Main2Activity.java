@@ -11,7 +11,7 @@ import android.widget.RadioGroup;
 import java.util.concurrent.BrokenBarrierException;
 
 public class Main2Activity extends AppCompatActivity {
-
+    int cc,aa;
     RadioGroup back;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
